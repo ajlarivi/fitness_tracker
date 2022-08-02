@@ -4,12 +4,12 @@ import 'package:flutter/material.dart';
 
 final ThemeData lightTheme = FlexThemeData.light(
   colors: const FlexSchemeColor(
-    primary: Color(0xffc4e7ff),
-    primaryContainer: Color(0xffe1f0f5),
-    secondary: Color(0xfff5bbeb),
-    secondaryContainer: Color(0xffffeeee),
-    tertiary: Color(0xfffef5dd),
-    tertiaryContainer: Color(0xfffef5dd),
+    primary: Color(0xff902619),
+    primaryContainer: Color(0xffca4034),
+    secondary: Color(0xffe08b65),
+    secondaryContainer: Color(0xffeaba84),
+    tertiary: Color(0xff775047),
+    tertiaryContainer: Color(0xff3d1e14),
     appBarColor: Color(0xffffeeee),
     error: Color(0xffb00020),
   ),

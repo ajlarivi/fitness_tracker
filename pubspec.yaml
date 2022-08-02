@@ -17,6 +17,7 @@ dependencies:
   collection: ^1.16.0
   database_client:
     path: packages/database_client
+  drop_shadow: ^0.0.1+4
   equatable: ^2.0.3
   files_repository:
     path: packages/files_repository
@@ -36,6 +37,9 @@ dependencies:
   settings_repository:
     path: packages/settings_repository
   syncfusion_flutter_charts: ^20.2.36
+
+assets:
+  - assets/
 
 dev_dependencies:
   bloc_test: ^9.0.3

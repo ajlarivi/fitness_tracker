@@ -231,7 +231,7 @@ class ScrollCalendarTile extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final color = selected
-        ? Theme.of(context).colorScheme.onBackground
+        ? Theme.of(context).colorScheme.secondaryContainer
         : Colors.transparent;
     final borderColor = selected
         ? Colors.transparent
